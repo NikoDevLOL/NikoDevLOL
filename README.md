@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**NikoDevLOL/NikoDevLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Currently used programming languages ​​and libraries</h2>
 
-Here are some ideas to get you started:
+- Lua
+- JavaScript
+- Discord.js
+- React.js
+- Css
+- Tailwind.css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact and Socials
+<a href="https://discord.com/users/531184958199562242" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
